@@ -1,0 +1,45 @@
+alp sank
+aps klan
+aps lank
+ask plan
+klan aps
+klan sap
+klan spa
+lank aps
+lank sap
+lank spa
+lap sank
+nap salk
+pal sank
+pan salk
+plan ask
+salk nap
+salk pan
+sank alp
+sank lap
+sank pal
+sap klan
+sap lank
+spa klan
+spa lank
+-1
+alan sank
+anna salk
+annal ask
+ask annal
+klan nasa
+klan sana
+lana sank
+lank nasa
+lank sana
+lanka san
+nasa klan
+nasa lank
+salk anna
+san lanka
+sana klan
+sana lank
+sank alan
+sank lana
+-1
+time: 84 millis
